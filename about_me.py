@@ -1,0 +1,5 @@
+print("My name is Komiljon")
+print("My surname is Matmurodov")
+print("I'm from tashkent region")
+print("I have 2 sisters")
+print("I love music")
