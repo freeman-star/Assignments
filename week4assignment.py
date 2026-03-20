@@ -16,4 +16,3 @@ def restaurant_bill(food_total,service_quality,num_diners,has_voucher,voucher_pe
         total_bill=0
     per_person=round(total_bill/num_diners)
     return per_person
-print(restaurant_bill(45000,"excellent",3,False))
